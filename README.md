@@ -14,7 +14,7 @@ This project analyzes delivery performance and customer satisfaction using e-com
 
 ## Project Overview
 
-I worked with the **Brazilian E-Commerce Public Dataset by Olist** to explore delivery performance and its effect on customer satisfaction. Using SQL, I:
+I worked with the **Brazilian E-Commerce Public Dataset by Olist** to explore delivery performance and its effect on customer satisfaction. Use SQL and Tableau. Key topics:
 
 - Classified orders as `on time` or `late` based on actual vs. estimated delivery dates.
 - Calculated late delivery rates by product category.
@@ -43,8 +43,8 @@ A **Tableau dashboard** has been created to visualize key insights from the anal
 - Correlation between delivery timeliness and review scores.
 - Year-over-year trends in delivery performance and customer satisfaction.
 
-You can view the live dashboard here: [Delivery Performance Dashboard](#)
+You can view the live dashboard here: [Delivery Performance Dashboard](https://public.tableau.com/app/profile/craig.ware/viz/Book1_17561747767990/SalesDeliveryPerformanceDashboard)
 
 ---
  
-[LinkedIn](https://www.linkedin.com/in/craig-w-0759189b/) | 
+[LinkedIn](https://www.linkedin.com/in/craig-w-0759189b/)
